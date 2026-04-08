@@ -148,8 +148,7 @@ accelerate==1.2.1
 This code supports the dissertation:
 
 > *Assessing Fine-Tuning Strategies for Medical Question Answering: A Comparative Study of LoRA and QLoRA*  
-> MSc Machine Learning — Liverpool John Moores University (LJMU / upGrad)  
-> Supervisor: Dr. Rupal Bhargava
+> MSc Machine Learning — Liverpool John Moores University (LJMU / upGrad)
 
 ### References
 
