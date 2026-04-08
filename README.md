@@ -1,7 +1,7 @@
 # Fine-Tuning Phi-4-Mini-Instruct for Medical Question Answering
 ### A Comparative Study of LoRA and QLoRA on MedMCQA
 
-> **MSc Machine Learning Dissertation** — Liverpool John Moores University (LJMU / upGrad)  
+> **MS Machine Learning Dissertation** — Liverpool John Moores University (LJMU / upGrad)  
 > *Assessing Fine-Tuning Strategies for Medical Question Answering: A Comparative Study of LoRA and QLoRA*
 
 ---
